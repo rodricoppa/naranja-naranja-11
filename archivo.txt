@@ -1,2 +1,3 @@
 mi  color favorito es: azul
 mi fruta favorita es: banana
+mi comida favorita es: milanesa con papas fritas
